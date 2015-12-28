@@ -1,2 +1,2 @@
-comsole.log("running on the server");
+console.log("running on the server");
 
